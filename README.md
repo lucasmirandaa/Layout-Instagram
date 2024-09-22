@@ -1,9 +1,9 @@
 # Layout Instagram
 
 <div>
-  <img src="https://github.com/user-attachments/assets/6af87385-8d91-4c02-84b3-e5baac1643e7" alt="start" width="300">
-  <img src="https://github.com/user-attachments/assets/bfec5dd0-f28a-4f8c-a566-e2bfe50ae9da" alt="count" width="300">
-  <img src="https://github.com/user-attachments/assets/209420a2-fa8a-484d-a3b8-19b573f7f05f" alt="clear" width="300">
+  <img src="https://github.com/user-attachments/assets/6af87385-8d91-4c02-84b3-e5baac1643e7" alt="start" width="250">
+  <img src="https://github.com/user-attachments/assets/bfec5dd0-f28a-4f8c-a566-e2bfe50ae9da" alt="count" width="250">
+  <img src="https://github.com/user-attachments/assets/209420a2-fa8a-484d-a3b8-19b573f7f05f" alt="clear" width="250">
 </div>
 
 
