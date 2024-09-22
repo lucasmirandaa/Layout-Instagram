@@ -13,7 +13,7 @@ Este é meu projeto em [**React Native**](https://reactnative.dev)
 
 Projeto desenvolvido para fins acadêmicos, utilizando o curso do <b><i>Sujeito Programador</i></b> para aperfeiçoar e aprender um pouco sobre React Native que é o conhecimento aplicado neste 2º semetre de 2024.
 
-## CRONÔMETRO
+## LAYOUT DO INSTAGRAM
 
 Esse projeto é um layout básico do aplicativo do Instagram, com nome, postagem e botão de likes que contabiliza a quantidade quando é clicado.
 
